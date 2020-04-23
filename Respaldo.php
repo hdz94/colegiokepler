@@ -1,0 +1,2 @@
+$array["menu"]=array(
+array("label"=>"<i class='fa fa-home mov'></i> Inicio","href"=>"inicio","activado"=>1),array("label"=>"<i class='fa fa-address-book-o mov'></i> Inscripciones","href"=>"inscripciones","activado"=>0),array("label"=>"<i class='fa fa-book mov'></i> Nosotros","href"=>"#nosotros","activado"=>0),array("label"=>"<i class='fa fa-users mov'></i> Secciones","href"=>"#secciones","activado"=>0),array("label"=>"<i class='fa fa-envelope mov'></i> Contacto","href"=>"#contacto","activado"=>0));
